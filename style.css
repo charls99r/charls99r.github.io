@@ -313,7 +313,7 @@ body::after {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   body {
     width: 348px;
     height: 100svh;
@@ -424,4 +424,5 @@ body::after {
   .project-media {
     padding-top: 0;
   }
+
 }
